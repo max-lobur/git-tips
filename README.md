@@ -1,6 +1,6 @@
 ### Tips saved while reading [Pro Git](https://git-scm.com/book/en/v2):
 
-```bash
+```
 git diff 			: compare current with staged (or with last commit if no staged one)
 git diff —staged 		: compare staged with last commit
 git diff <master>…<topicbr>	: show diff introduced by topicbr comparing to master (base commit in master)
